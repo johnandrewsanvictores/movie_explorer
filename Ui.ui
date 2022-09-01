@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1215</width>
+    <height>764</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>1208</width>
+    <height>764</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="styleSheet">
+    <string notr="true">#top_bar {
+	background-color: rgb(30, 30, 30);
+}
+
+#content {
+	background-color: rgb(40, 40, 40);
+}
+
+#app_title {
+	color: #A3A3A3;
+}
+
+#left_menu {
+	background-color: rgb(25, 25, 25);
+}
+
+#path_frame, #file_properties_frame{
+	background-color: rgb(80, 80, 80);
+}
+
+#file_display_frame, #movie_container {
+	background-color: #222222;
+}
+
+#movie_container {
+	padding: 1em;
+	color: #6b6b6b;
+}
+
+#file_properties_frame QLabel {
+	color: #9E9E9E;
+}
+
+#left_menu_btn QPushButton {
+	background-color: #363636;
+	color: #6B6B6B;
+	border-radius: 10px;
+}
+
+#left_menu_btn QPushButton:hover {
+	background-color: rgb(153, 153, 153);
+}
+</string>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <property name="spacing">
+     <number>0</number>
+    </property>
+    <property name="leftMargin">
+     <number>0</number>
+    </property>
+    <property name="topMargin">
+     <number>0</number>
+    </property>
+    <property name="rightMargin">
+     <number>0</number>
+    </property>
+    <property name="bottomMargin">
+     <number>0</number>
+    </property>
+    <item>
+     <widget class="QFrame" name="top_bar">
+      <property name="minimumSize">
+       <size>
+        <width>0</width>
+        <height>0</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>16777215</width>
+        <height>70</height>
+       </size>
+      </property>
+      <property name="frameShape">
+       <enum>QFrame::NoFrame</enum>
+      </property>
+      <property name="frameShadow">
+       <enum>QFrame::Raised</enum>
+      </property>
+      <layout class="QHBoxLayout" name="horizontalLayout">
+       <property name="leftMargin">
+        <number>0</number>
+       </property>
+       <property name="topMargin">
+        <number>0</number>
+       </property>
+       <property name="rightMargin">
+        <number>0</number>
+       </property>
+       <property name="bottomMargin">
+        <number>0</number>
+       </property>
+       <item>
+        <widget class="QFrame" name="toggle_frame">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="maximumSize">
+          <size>
+           <width>70</width>
+           <height>70</height>
+          </size>
+         </property>
+         <property name="focusPolicy">
+          <enum>Qt::NoFocus</enum>
+         </property>
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <layout class="QVBoxLayout" name="verticalLayout_2">
+          <item>
+           <widget class="QPushButton" name="toggle_btn">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="text">
+             <string>Toggle</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item>
+        <widget class="QFrame" name="title_frame">
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <layout class="QHBoxLayout" name="horizontalLayout_2">
+          <item>
+           <widget class="QLabel" name="app_title">
+            <property name="font">
+             <font>
+              <family>Trebuchet MS</family>
+              <pointsize>24</pointsize>
+              <weight>75</weight>
+              <bold>true</bold>
+             </font>
+            </property>
+            <property name="text">
+             <string>Movie Explorer</string>
+            </property>
+            <property name="alignment">
+             <set>Qt::AlignCenter</set>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </item>
+    <item>
+     <widget class="QFrame" name="content">
+      <property name="frameShape">
+       <enum>QFrame::NoFrame</enum>
+      </property>
+      <property name="frameShadow">
+       <enum>QFrame::Raised</enum>
+      </property>
+      <layout class="QGridLayout" name="gridLayout">
+       <property name="leftMargin">
+        <number>0</number>
+       </property>
+       <property name="topMargin">
+        <number>0</number>
+       </property>
+       <property name="rightMargin">
+        <number>0</number>
+       </property>
+       <property name="bottomMargin">
+        <number>0</number>
+       </property>
+       <property name="spacing">
+        <number>0</number>
+       </property>
+       <item row="0" column="1">
+        <widget class="QFrame" name="path_frame">
+         <property name="maximumSize">
+          <size>
+           <width>16777215</width>
+           <height>40</height>
+          </size>
+         </property>
+         <property name="layoutDirection">
+          <enum>Qt::RightToLeft</enum>
+         </property>
+         <property name="styleSheet">
+          <string notr="true"/>
+         </property>
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <layout class="QHBoxLayout" name="horizontalLayout_3" stretch="40,1,1">
+          <item>
+           <widget class="QLabel" name="label">
+            <property name="layoutDirection">
+             <enum>Qt::RightToLeft</enum>
+            </property>
+            <property name="text">
+             <string>hello</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="label_2">
+            <property name="text">
+             <string>&gt;&gt;</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="label_3">
+            <property name="text">
+             <string>TextLabel</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item row="0" column="0" rowspan="3">
+        <widget class="QFrame" name="left_menu">
+         <property name="minimumSize">
+          <size>
+           <width>250</width>
+           <height>0</height>
+          </size>
+         </property>
+         <property name="maximumSize">
+          <size>
+           <width>400</width>
+           <height>16777215</height>
+          </size>
+         </property>
+         <property name="sizeIncrement">
+          <size>
+           <width>0</width>
+           <height>0</height>
+          </size>
+         </property>
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <layout class="QVBoxLayout" name="verticalLayout_6">
+          <item>
+           <widget class="QFrame" name="left_menu_btn">
+            <property name="maximumSize">
+             <size>
+              <width>16777215</width>
+              <height>200</height>
+             </size>
+            </property>
+            <property name="frameShape">
+             <enum>QFrame::StyledPanel</enum>
+            </property>
+            <property name="frameShadow">
+             <enum>QFrame::Raised</enum>
+            </property>
+            <layout class="QVBoxLayout" name="verticalLayout_5">
+             <property name="spacing">
+              <number>20</number>
+             </property>
+             <property name="leftMargin">
+              <number>0</number>
+             </property>
+             <property name="topMargin">
+              <number>0</number>
+             </property>
+             <property name="rightMargin">
+              <number>0</number>
+             </property>
+             <property name="bottomMargin">
+              <number>0</number>
+             </property>
+             <item>
+              <widget class="QPushButton" name="scan_btn">
+               <property name="maximumSize">
+                <size>
+                 <width>16777215</width>
+                 <height>35</height>
+                </size>
+               </property>
+               <property name="font">
+                <font>
+                 <family>Lucida Sans</family>
+                 <pointsize>12</pointsize>
+                </font>
+               </property>
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="mouseTracking">
+                <bool>false</bool>
+               </property>
+               <property name="text">
+                <string>Scan</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QPushButton" name="change_dir_btn">
+               <property name="maximumSize">
+                <size>
+                 <width>16777215</width>
+                 <height>35</height>
+                </size>
+               </property>
+               <property name="font">
+                <font>
+                 <family>Lucida Sans</family>
+                 <pointsize>10</pointsize>
+                </font>
+               </property>
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="text">
+                <string>Change Main Directory</string>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item row="1" column="1" rowspan="2">
+        <widget class="QFrame" name="file_main_frame">
+         <property name="styleSheet">
+          <string notr="true"/>
+         </property>
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <layout class="QVBoxLayout" name="verticalLayout_3">
+          <property name="leftMargin">
+           <number>30</number>
+          </property>
+          <property name="topMargin">
+           <number>30</number>
+          </property>
+          <property name="rightMargin">
+           <number>30</number>
+          </property>
+          <property name="bottomMargin">
+           <number>30</number>
+          </property>
+          <item>
+           <widget class="QFrame" name="file_display_frame">
+            <property name="frameShape">
+             <enum>QFrame::StyledPanel</enum>
+            </property>
+            <property name="frameShadow">
+             <enum>QFrame::Raised</enum>
+            </property>
+            <layout class="QVBoxLayout" name="verticalLayout_4">
+             <property name="leftMargin">
+              <number>0</number>
+             </property>
+             <property name="topMargin">
+              <number>0</number>
+             </property>
+             <property name="rightMargin">
+              <number>0</number>
+             </property>
+             <property name="bottomMargin">
+              <number>1</number>
+             </property>
+             <item>
+              <widget class="QFrame" name="file_properties_frame">
+               <property name="minimumSize">
+                <size>
+                 <width>0</width>
+                 <height>20</height>
+                </size>
+               </property>
+               <property name="maximumSize">
+                <size>
+                 <width>16777215</width>
+                 <height>50</height>
+                </size>
+               </property>
+               <property name="frameShape">
+                <enum>QFrame::StyledPanel</enum>
+               </property>
+               <property name="frameShadow">
+                <enum>QFrame::Raised</enum>
+               </property>
+               <layout class="QGridLayout" name="gridLayout_2" columnstretch="200">
+                <property name="leftMargin">
+                 <number>7</number>
+                </property>
+                <property name="topMargin">
+                 <number>0</number>
+                </property>
+                <property name="rightMargin">
+                 <number>0</number>
+                </property>
+                <property name="bottomMargin">
+                 <number>0</number>
+                </property>
+                <property name="spacing">
+                 <number>0</number>
+                </property>
+                <item row="0" column="0">
+                 <widget class="QLabel" name="filename_label">
+                  <property name="font">
+                   <font>
+                    <family>Lucida Sans</family>
+                    <pointsize>7</pointsize>
+                   </font>
+                  </property>
+                  <property name="text">
+                   <string>Filename</string>
+                  </property>
+                 </widget>
+                </item>
+               </layout>
+              </widget>
+             </item>
+             <item>
+              <widget class="QListWidget" name="movie_container">
+               <property name="font">
+                <font>
+                 <family>Lucida Sans</family>
+                 <pointsize>10</pointsize>
+                </font>
+               </property>
+               <property name="cursor" stdset="0">
+                <cursorShape>ArrowCursor</cursorShape>
+               </property>
+               <property name="frameShape">
+                <enum>QFrame::NoFrame</enum>
+               </property>
+               <property name="autoScrollMargin">
+                <number>16</number>
+               </property>
+               <property name="layoutMode">
+                <enum>QListView::SinglePass</enum>
+               </property>
+               <property name="spacing">
+                <number>5</number>
+               </property>
+               <property name="viewMode">
+                <enum>QListView::ListMode</enum>
+               </property>
+               <property name="wordWrap">
+                <bool>true</bool>
+               </property>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+                <property name="font">
+                 <font>
+                  <family>Lucida Sans</family>
+                  <pointsize>10</pointsize>
+                 </font>
+                </property>
+                <property name="background">
+                 <brush brushstyle="NoBrush">
+                  <color alpha="255">
+                   <red>107</red>
+                   <green>107</green>
+                   <blue>107</blue>
+                  </color>
+                 </brush>
+                </property>
+                <property name="foreground">
+                 <brush brushstyle="NoBrush">
+                  <color alpha="255">
+                   <red>189</red>
+                   <green>189</green>
+                   <blue>189</blue>
+                  </color>
+                 </brush>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of MeatballCloudy With a Chance of MeatballCloudy With a Chance of MeatballCloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cloudy With a Chance of Meatball</string>
+                </property>
+               </item>
+              </widget>
+             </item>
+            </layout>
+           </widget>
+          </item>
+          <item>
+           <widget class="QFrame" name="sort_frame">
+            <property name="minimumSize">
+             <size>
+              <width>0</width>
+              <height>25</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>16777215</width>
+              <height>40</height>
+             </size>
+            </property>
+            <property name="frameShape">
+             <enum>QFrame::StyledPanel</enum>
+            </property>
+            <property name="frameShadow">
+             <enum>QFrame::Raised</enum>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

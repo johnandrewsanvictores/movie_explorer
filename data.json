@@ -1,0 +1,182 @@
+{
+  "parent_path": "C:\\Users\\andrew\\Videos\\movie",
+  "movie_data": {
+    "ALBERT.VOB": "C:\\Users\\andrew\\Videos\\movie\\ALBERT.VOB",
+    "Ant-Man.And.The.Wasp.2018.1080p.WEBRip.x264-[Y.mp4": "C:\\Users\\andrew\\Videos\\movie\\Ant-Man.And.The.Wasp.2018.1080p.WEBRip.x264-[Y.mp4",
+    "Bad.Genius.2017.720p.WEB-DL.mp4C.mp4": "C:\\Users\\andrew\\Videos\\movie\\Bad.Genius.2017.720p.WEB-DL.mp4C.mp4",
+    "Coco.2017.DVDScr.XVID.AC3.HQ.Hive-.mp4": "C:\\Users\\andrew\\Videos\\movie\\Coco.2017.DVDScr.XVID.AC3.HQ.Hive-.mp4",
+    "Hacker.2016.720p.BluRay.x264-[YTS].mp4": "C:\\Users\\andrew\\Videos\\movie\\Hacker.2016.720p.BluRay.x264-[YTS].mp4",
+    "HELLO_LOVE_GOODBYE.mp4": "C:\\Users\\andrew\\Videos\\movie\\HELLO_LOVE_GOODBYE.mp4",
+    "Hotel.Transylvania.3.Summer.Vacation.2018.720p.BluRay.x264-[YTS].mp4": "C:\\Users\\andrew\\Videos\\movie\\Hotel.Transylvania.3.Summer.Vacation.2018.720p.BluRay.x264-[YTS].mp4",
+    "I_want_to_eat_your_pancreas.mp4": "C:\\Users\\andrew\\Videos\\movie\\I_want_to_eat_your_pancreas.mp4",
+    "Johnny.English.Strikes.Again.2018.1080p.BluRay.x264-[YTS.AM].mp4": "C:\\Users\\andrew\\Videos\\movie\\Johnny.English.Strikes.Again.2018.1080p.BluRay.x264-[YTS.AM].mp4",
+    "Men.in.Black.International.2019.720p.HC.HDRip.x264.mp4Cage.Com.mp4": "C:\\Users\\andrew\\Videos\\movie\\Men.in.Black.International.2019.720p.HC.HDRip.x264.mp4Cage.Com.mp4",
+    "Men.in.Black.International.2019.720p.HC.HDRip.x264.mp4Cage.mp4": "C:\\Users\\andrew\\Videos\\movie\\Men.in.Black.International.2019.720p.HC.HDRip.x264.mp4Cage.mp4",
+    "Mr. Bean Animated.mp4": "C:\\Users\\andrew\\Videos\\movie\\Mr. Bean Animated.mp4",
+    "Mulan2020.mp4": "C:\\Users\\andrew\\Videos\\movie\\Mulan2020.mp4",
+    "Shazam!.2019.1080p.BluRay.x264-[YTS.LT].mp4": "C:\\Users\\andrew\\Videos\\movie\\Shazam!.2019.1080p.BluRay.x264-[YTS.LT].mp4",
+    "Spider-Man.Homecoming.2017.1080p.BluRay.x264-[YTS.AG].mp4": "C:\\Users\\andrew\\Videos\\movie\\Spider-Man.Homecoming.2017.1080p.BluRay.x264-[YTS.AG].mp4",
+    "The.Kissing.Booth.2018.1080p.WEBRip.x264-[YTS.AM].mp4": "C:\\Users\\andrew\\Videos\\movie\\The.Kissing.Booth.2018.1080p.WEBRip.x264-[YTS.AM].mp4",
+    "Thor.Ragnarok.2017.720p.BluRay.x264-[YTS.AG].mp4": "C:\\Users\\andrew\\Videos\\movie\\Thor.Ragnarok.2017.720p.BluRay.x264-[YTS.AG].mp4",
+    "Titanic.mp4": "C:\\Users\\andrew\\Videos\\movie\\Titanic.mp4",
+    "UglyDolls.2019.720p.BluRay.x264-[YTS.LT].mp4": "C:\\Users\\andrew\\Videos\\movie\\UglyDolls.2019.720p.BluRay.x264-[YTS.LT].mp4",
+    "Valerian and the City of a Thousand Planets (2017).mp4": "C:\\Users\\andrew\\Videos\\movie\\Valerian and the City of a Thousand Planets (2017).mp4",
+    "Arrival-2016.mp4": "C:\\Users\\andrew\\Videos\\movie\\Arrival (2016) [1080p] [YTS.AG]\\Arrival-2016.mp4",
+    "Bohemian.Rhapsody.2018.720p.WEBRip.x264-[YTS.AM].mp4": "C:\\Users\\andrew\\Videos\\movie\\Bohemian Rhapsody (2018) [WEBRip] [720p] [YTS.AM]\\Bohemian.Rhapsody.2018.720p.WEBRip.x264-[YTS.AM].mp4",
+    "Descendants.3.2019 (movie).mp4": "C:\\Users\\andrew\\Videos\\movie\\Descendants.3.2019.1080p.WEBRip.x264-RARBG\\Descendants.3.2019 (movie).mp4",
+    "Dumbo.2019.1080p.BluRay.H264.AAC-RARBG--movie.mp4": "C:\\Users\\andrew\\Videos\\movie\\Dumbo.2019.1080p.BluRay.H264.AAC-RARBG\\Dumbo.2019.1080p.BluRay.H264.AAC-RARBG--movie.mp4",
+    "Forrest_Gump_O_Contador_De_Histrias_1994_720p_210GJI....mp4": "C:\\Users\\andrew\\Videos\\movie\\Forrest Gump - O Contador De Hist\u00f3rias (1994)\\Forrest_Gump_O_Contador_De_Histrias_1994_720p_210GJI....mp4",
+    "Kong.Skull.Island-2017.mp4": "C:\\Users\\andrew\\Videos\\movie\\Kong Skull Island (2017) [1080p] [YTS.AG]\\Kong.Skull.Island-2017.mp4",
+    "Midnight.Sun.2018.WEB-DL.x264-FGT.mp4": "C:\\Users\\andrew\\Videos\\movie\\Midnight.Sun.2018.WEB-DL.x264-FGT\\Midnight.Sun.2018.WEB-DL.x264-FGT.mp4",
+    "Passengers.2016.1080p.BluRay.x264-[YTS.AG].mp4": "C:\\Users\\andrew\\Videos\\movie\\Passengers (2016) [1080p] [YTS.AG]\\Passengers.2016.1080p.BluRay.x264-[YTS.AG].mp4",
+    "Ratatouille 2007.mp4": "C:\\Users\\andrew\\Videos\\movie\\Ratatouille\\Ratatouille 2007.mp4",
+    "Skyscraper.2018.720p.WEBRip.x264-[YTS.AM].mp4": "C:\\Users\\andrew\\Videos\\movie\\Skyscraper (2018) [WEBRip] [720p] [YTS.AM]\\Skyscraper.2018.720p.WEBRip.x264-[YTS.AM].mp4",
+    "Spongebob.mp4": "C:\\Users\\andrew\\Videos\\movie\\Spongebob\\Spongebob.mp4",
+    "The.Emoji.Movie-2017.mp4": "C:\\Users\\andrew\\Videos\\movie\\The Emoji Movie (2017) [1080p] [YTS.AG]\\The.Emoji.Movie-2017.mp4",
+    "The.Golden.Compass.2007.1080p.BluRay.x264.YIFY.mp4": "C:\\Users\\andrew\\Videos\\movie\\The.Golden.Compass.2007.1080p.BluRay.x264.YIFY.mp4 (movie)\\The.Golden.Compass.2007.1080p.BluRay.x264.YIFY.mp4",
+    "The.Legion.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4": "C:\\Users\\andrew\\Videos\\movie\\The_Legion_2020_720p_[WEBRi]_[YTS.MX]\\The.Legion.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
+    "Tomb.Raider.2018.720p.WEBRip.x264-[YTS.AM].mp4": "C:\\Users\\andrew\\Videos\\movie\\Tomb Raider (2018) [720p]\\Tomb.Raider.2018.720p.WEBRip.x264-[YTS.AM].mp4",
+    "Turbo.2013.720p.BluRay.x264.YIFY....mp4": "C:\\Users\\andrew\\Videos\\movie\\turbo\\Turbo.2013.720p.BluRay.x264.YIFY....mp4",
+    "Unfriended.Dark.Web.2018.BRRip.XviD.MP3-XVID.avi": "C:\\Users\\andrew\\Videos\\movie\\Unfriended.Dark.Web.2018.BRRip.XviD.MP3-XVID\\Unfriended.Dark.Web.2018.BRRip.XviD.MP3-XVID.avi",
+    "Up.2009.720p.BluRay.x264.YIFY....mp4": "C:\\Users\\andrew\\Videos\\movie\\up\\Up.2009.720p.BluRay.x264.YIFY....mp4",
+    "Upgrade.2018.720p.WEBRip.x264-[YTS.AM].mp4": "C:\\Users\\andrew\\Videos\\movie\\Upgrade (2018) [WEBRip] [720p] [YTS.AM]\\Upgrade.2018.720p.WEBRip.x264-[YTS.AM].mp4",
+    "Your.Name.2016.720p.BluRay.x264-[YTS.AM]....mp4": "C:\\Users\\andrew\\Videos\\movie\\your name\\Your.Name.2016.720p.BluRay.x264-[YTS.AM]....mp4",
+    "Your NameKimi no Na wa\u541b\u306e\u540d\u306f\u3002 Orchestra Concert Nandemonaiya\u306a\u3093\u3067\u3082\u306a\u3044\u3084 (Movie and Credit Versions).mp4": "C:\\Users\\andrew\\Videos\\movie\\YouTube Video\\Your NameKimi no Na wa\u541b\u306e\u540d\u306f\u3002 Orchestra Concert Nandemonaiya\u306a\u3093\u3067\u3082\u306a\u3044\u3084 (Movie and Credit Versions).mp4",
+    "C:\\Users\\andrew\\Videos\\movie\\Alvin and the Chipmunks": {
+      "Alvin.And.The.Chipmunks.2007.1080p.BluRay.x264.[YTS.AG].mp4": "C:\\Users\\andrew\\Videos\\movie\\Alvin and the Chipmunks\\Alvin.And.The.Chipmunks.2007.1080p.BluRay.x264.[YTS.AG].mp4",
+      "Alvin.And.The.Chipmunks.The.Road.Chip.2015.1080p.BluRay.x264-[YTS.AG].mp4": "C:\\Users\\andrew\\Videos\\movie\\Alvin and the Chipmunks\\Alvin.And.The.Chipmunks.The.Road.Chip.2015.1080p.BluRay.x264-[YTS.AG].mp4",
+      "Alvin.and.the.Chipmunks.Chip.Wrecked.2011.720p.BluRay.x264.YIFY.mp4": "C:\\Users\\andrew\\Videos\\movie\\Alvin and the Chipmunks\\Alvin.and.the.Chipmunks.Chip.Wrecked.2011.720p.BluRay.x264.YIFY.mp4"
+    },
+    "C:\\Users\\andrew\\Videos\\movie\\Cloudy With A Chance Of Meatballs": {
+      "1. Cloudy with a Chance of Meatballs 2009.mp4": "C:\\Users\\andrew\\Videos\\movie\\Cloudy With A Chance Of Meatballs\\1. Cloudy with a Chance of Meatballs 2009.mp4",
+      "2. Cloudy with a Chance.of Meatballs 2 2013.mp4": "C:\\Users\\andrew\\Videos\\movie\\Cloudy With A Chance Of Meatballs\\2. Cloudy with a Chance.of Meatballs 2 2013.mp4",
+      "Cant.Help.Falling.in.Love.2017.mp4": "C:\\Users\\andrew\\Videos\\movie\\Cloudy With A Chance Of Meatballs\\Cant.Help.Falling.in.Love.2017.mp4"
+    },
+    "C:\\Users\\andrew\\Videos\\movie\\Despicable Me": {
+      "Despicable Me 2010.mp4": "C:\\Users\\andrew\\Videos\\movie\\Despicable Me\\Despicable Me 2010.mp4"
+    },
+    "C:\\Users\\andrew\\Videos\\movie\\Despicable Me\\test": {
+      "Despicable Me 2 2013.mp4": "C:\\Users\\andrew\\Videos\\movie\\Despicable Me\\test\\Despicable Me 2 2013.mp4",
+      "Despicable Me 3 2017.mp4": "C:\\Users\\andrew\\Videos\\movie\\Despicable Me\\test\\Despicable Me 3 2017.mp4"
+    },
+    "C:\\Users\\andrew\\Videos\\movie\\Hel": {
+      "Aladdin.2019.1080p.WEBRip.x264-[YTS.LT].mp4": "C:\\Users\\andrew\\Videos\\movie\\Hel\\Aladdin.2019.1080p.WEBRip.x264-[YTS.LT].mp4",
+      "Along.With.the.Gods.The.Two.Worlds.2017.HDRip.x264.AAC.720p-REM.mp4": "C:\\Users\\andrew\\Videos\\movie\\Hel\\Along.With.the.Gods.The.Two.Worlds.2017.HDRip.x264.AAC.720p-REM.mp4"
+    },
+    "C:\\Users\\andrew\\Videos\\movie\\How to Train your Dragon\\dfdfd\\sample": {
+      "3.How.To.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.x264-[YTS.AM].mp4": "C:\\Users\\andrew\\Videos\\movie\\How to Train your Dragon\\dfdfd\\sample\\3.How.To.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.x264-[YTS.AM].mp4",
+      "test": "C:\\Users\\andrew\\Videos\\movie\\How to Train your Dragon\\dfdfd\\sample\\test"
+    },
+    "C:\\Users\\andrew\\Videos\\movie\\How to Train your Dragon\\dfdfd\\sample\\test": {
+      "2.How.to.Train.Your.Dragon.2.2014.720p.BluRay.x264.YIFY.mp4": "C:\\Users\\andrew\\Videos\\movie\\How to Train your Dragon\\dfdfd\\sample\\test\\2.How.to.Train.Your.Dragon.2.2014.720p.BluRay.x264.YIFY.mp4",
+      "test2": "C:\\Users\\andrew\\Videos\\movie\\How to Train your Dragon\\dfdfd\\sample\\test\\test2"
+    },
+    "C:\\Users\\andrew\\Videos\\movie\\How to Train your Dragon\\dfdfd\\sample\\test\\test2": {
+      "1.How.To.Train.Your.Dragon.2010.720.BrRip.x264.YIFY.mp4": "C:\\Users\\andrew\\Videos\\movie\\How to Train your Dragon\\dfdfd\\sample\\test\\test2\\1.How.To.Train.Your.Dragon.2010.720.BrRip.x264.YIFY.mp4"
+    },
+    "C:\\Users\\andrew\\Videos\\movie\\Lion King\\test": {
+      "1.The Lion King.mp4": "C:\\Users\\andrew\\Videos\\movie\\Lion King\\test\\1.The Lion King.mp4",
+      "2. The Lion King 2.mp4": "C:\\Users\\andrew\\Videos\\movie\\Lion King\\test\\2. The Lion King 2.mp4",
+      "Lion King 3.MP4": "C:\\Users\\andrew\\Videos\\movie\\Lion King\\test\\Lion King 3.MP4",
+      "Lion King(Unanimated).mp4": "C:\\Users\\andrew\\Videos\\movie\\Lion King\\test\\Lion King(Unanimated).mp4"
+    },
+    "C:\\Users\\andrew\\Videos\\movie\\Maleficent": {
+      "Maleficent.2014.1080p.BluRay.x264.YIFY.mp4": "C:\\Users\\andrew\\Videos\\movie\\Maleficent\\Maleficent.2014.1080p.BluRay.x264.YIFY.mp4",
+      "Maleficent.Mistress.of.Evil.2019 (2).mp4": "C:\\Users\\andrew\\Videos\\movie\\Maleficent\\Maleficent.Mistress.of.Evil.2019 (2).mp4"
+    },
+    "C:\\Users\\andrew\\Videos\\movie\\Smurfs": {
+      "The.Smurfs.2.2013.mp4": "C:\\Users\\andrew\\Videos\\movie\\Smurfs\\The.Smurfs.2.2013.mp4",
+      "The.Smurfs.2011.720p.BrRip.x264.YIFY.mp4": "C:\\Users\\andrew\\Videos\\movie\\Smurfs\\The.Smurfs.2011.720p.BrRip.x264.YIFY.mp4"
+    },
+    "C:\\Users\\andrew\\Videos\\movie\\Videos": {
+      "Canada UN.mp4": "C:\\Users\\andrew\\Videos\\movie\\Videos\\Canada UN.mp4",
+      "Grade 8.mp4": "C:\\Users\\andrew\\Videos\\movie\\Videos\\Grade 8.mp4",
+      "gr8.mp4": "C:\\Users\\andrew\\Videos\\movie\\Videos\\gr8.mp4"
+    },
+    "C:\\Users\\andrew\\Videos\\movie\\How to Train your Dragon": {
+      "dfdfd": "C:\\Users\\andrew\\Videos\\movie\\How to Train your Dragon\\dfdfd"
+    },
+    "C:\\Users\\andrew\\Videos\\movie\\How to Train your Dragon\\dfdfd": {
+      "sample": "C:\\Users\\andrew\\Videos\\movie\\How to Train your Dragon\\dfdfd\\sample"
+    }
+  },
+  "sub_folder": [
+    "Alvin and the Chipmunks",
+    "Cloudy With A Chance Of Meatballs",
+    "Despicable Me",
+    "Hel",
+    "How to Train your Dragon",
+    "Lion King",
+    "Maleficent",
+    "Smurfs",
+    "Videos"
+  ],
+  "all_movies": {
+    "ALBERT.VOB": "C:\\Users\\andrew\\Videos\\movie\\ALBERT.VOB",
+    "Ant-Man.And.The.Wasp.2018.1080p.WEBRip.x264-[Y.mp4": "C:\\Users\\andrew\\Videos\\movie\\Ant-Man.And.The.Wasp.2018.1080p.WEBRip.x264-[Y.mp4",
+    "Bad.Genius.2017.720p.WEB-DL.mp4C.mp4": "C:\\Users\\andrew\\Videos\\movie\\Bad.Genius.2017.720p.WEB-DL.mp4C.mp4",
+    "Coco.2017.DVDScr.XVID.AC3.HQ.Hive-.mp4": "C:\\Users\\andrew\\Videos\\movie\\Coco.2017.DVDScr.XVID.AC3.HQ.Hive-.mp4",
+    "Hacker.2016.720p.BluRay.x264-[YTS].mp4": "C:\\Users\\andrew\\Videos\\movie\\Hacker.2016.720p.BluRay.x264-[YTS].mp4",
+    "HELLO_LOVE_GOODBYE.mp4": "C:\\Users\\andrew\\Videos\\movie\\HELLO_LOVE_GOODBYE.mp4",
+    "Hotel.Transylvania.3.Summer.Vacation.2018.720p.BluRay.x264-[YTS].mp4": "C:\\Users\\andrew\\Videos\\movie\\Hotel.Transylvania.3.Summer.Vacation.2018.720p.BluRay.x264-[YTS].mp4",
+    "I_want_to_eat_your_pancreas.mp4": "C:\\Users\\andrew\\Videos\\movie\\I_want_to_eat_your_pancreas.mp4",
+    "Johnny.English.Strikes.Again.2018.1080p.BluRay.x264-[YTS.AM].mp4": "C:\\Users\\andrew\\Videos\\movie\\Johnny.English.Strikes.Again.2018.1080p.BluRay.x264-[YTS.AM].mp4",
+    "Men.in.Black.International.2019.720p.HC.HDRip.x264.mp4Cage.Com.mp4": "C:\\Users\\andrew\\Videos\\movie\\Men.in.Black.International.2019.720p.HC.HDRip.x264.mp4Cage.Com.mp4",
+    "Men.in.Black.International.2019.720p.HC.HDRip.x264.mp4Cage.mp4": "C:\\Users\\andrew\\Videos\\movie\\Men.in.Black.International.2019.720p.HC.HDRip.x264.mp4Cage.mp4",
+    "Mr. Bean Animated.mp4": "C:\\Users\\andrew\\Videos\\movie\\Mr. Bean Animated.mp4",
+    "Mulan2020.mp4": "C:\\Users\\andrew\\Videos\\movie\\Mulan2020.mp4",
+    "Shazam!.2019.1080p.BluRay.x264-[YTS.LT].mp4": "C:\\Users\\andrew\\Videos\\movie\\Shazam!.2019.1080p.BluRay.x264-[YTS.LT].mp4",
+    "Spider-Man.Homecoming.2017.1080p.BluRay.x264-[YTS.AG].mp4": "C:\\Users\\andrew\\Videos\\movie\\Spider-Man.Homecoming.2017.1080p.BluRay.x264-[YTS.AG].mp4",
+    "The.Kissing.Booth.2018.1080p.WEBRip.x264-[YTS.AM].mp4": "C:\\Users\\andrew\\Videos\\movie\\The.Kissing.Booth.2018.1080p.WEBRip.x264-[YTS.AM].mp4",
+    "Thor.Ragnarok.2017.720p.BluRay.x264-[YTS.AG].mp4": "C:\\Users\\andrew\\Videos\\movie\\Thor.Ragnarok.2017.720p.BluRay.x264-[YTS.AG].mp4",
+    "Titanic.mp4": "C:\\Users\\andrew\\Videos\\movie\\Titanic.mp4",
+    "UglyDolls.2019.720p.BluRay.x264-[YTS.LT].mp4": "C:\\Users\\andrew\\Videos\\movie\\UglyDolls.2019.720p.BluRay.x264-[YTS.LT].mp4",
+    "Valerian and the City of a Thousand Planets (2017).mp4": "C:\\Users\\andrew\\Videos\\movie\\Valerian and the City of a Thousand Planets (2017).mp4",
+    "Alvin.And.The.Chipmunks.2007.1080p.BluRay.x264.[YTS.AG].mp4": "C:\\Users\\andrew\\Videos\\movie\\Alvin and the Chipmunks\\Alvin.And.The.Chipmunks.2007.1080p.BluRay.x264.[YTS.AG].mp4",
+    "Alvin.and.the.Chipmunks.Chip.Wrecked.2011.720p.BluRay.x264.YIFY.mp4": "C:\\Users\\andrew\\Videos\\movie\\Alvin and the Chipmunks\\Alvin.and.the.Chipmunks.Chip.Wrecked.2011.720p.BluRay.x264.YIFY.mp4",
+    "Alvin.And.The.Chipmunks.The.Road.Chip.2015.1080p.BluRay.x264-[YTS.AG].mp4": "C:\\Users\\andrew\\Videos\\movie\\Alvin and the Chipmunks\\Alvin.And.The.Chipmunks.The.Road.Chip.2015.1080p.BluRay.x264-[YTS.AG].mp4",
+    "Arrival-2016.mp4": "C:\\Users\\andrew\\Videos\\movie\\Arrival (2016) [1080p] [YTS.AG]\\Arrival-2016.mp4",
+    "Bohemian.Rhapsody.2018.720p.WEBRip.x264-[YTS.AM].mp4": "C:\\Users\\andrew\\Videos\\movie\\Bohemian Rhapsody (2018) [WEBRip] [720p] [YTS.AM]\\Bohemian.Rhapsody.2018.720p.WEBRip.x264-[YTS.AM].mp4",
+    "1. Cloudy with a Chance of Meatballs 2009.mp4": "C:\\Users\\andrew\\Videos\\movie\\Cloudy With A Chance Of Meatballs\\1. Cloudy with a Chance of Meatballs 2009.mp4",
+    "2. Cloudy with a Chance.of Meatballs 2 2013.mp4": "C:\\Users\\andrew\\Videos\\movie\\Cloudy With A Chance Of Meatballs\\2. Cloudy with a Chance.of Meatballs 2 2013.mp4",
+    "Cant.Help.Falling.in.Love.2017.mp4": "C:\\Users\\andrew\\Videos\\movie\\Cloudy With A Chance Of Meatballs\\Cant.Help.Falling.in.Love.2017.mp4",
+    "Descendants.3.2019 (movie).mp4": "C:\\Users\\andrew\\Videos\\movie\\Descendants.3.2019.1080p.WEBRip.x264-RARBG\\Descendants.3.2019 (movie).mp4",
+    "Despicable Me 2010.mp4": "C:\\Users\\andrew\\Videos\\movie\\Despicable Me\\Despicable Me 2010.mp4",
+    "Despicable Me 2 2013.mp4": "C:\\Users\\andrew\\Videos\\movie\\Despicable Me\\test\\Despicable Me 2 2013.mp4",
+    "Despicable Me 3 2017.mp4": "C:\\Users\\andrew\\Videos\\movie\\Despicable Me\\test\\Despicable Me 3 2017.mp4",
+    "Dumbo.2019.1080p.BluRay.H264.AAC-RARBG--movie.mp4": "C:\\Users\\andrew\\Videos\\movie\\Dumbo.2019.1080p.BluRay.H264.AAC-RARBG\\Dumbo.2019.1080p.BluRay.H264.AAC-RARBG--movie.mp4",
+    "Forrest_Gump_O_Contador_De_Histrias_1994_720p_210GJI....mp4": "C:\\Users\\andrew\\Videos\\movie\\Forrest Gump - O Contador De Hist\u00f3rias (1994)\\Forrest_Gump_O_Contador_De_Histrias_1994_720p_210GJI....mp4",
+    "Aladdin.2019.1080p.WEBRip.x264-[YTS.LT].mp4": "C:\\Users\\andrew\\Videos\\movie\\Hel\\Aladdin.2019.1080p.WEBRip.x264-[YTS.LT].mp4",
+    "Along.With.the.Gods.The.Two.Worlds.2017.HDRip.x264.AAC.720p-REM.mp4": "C:\\Users\\andrew\\Videos\\movie\\Hel\\Along.With.the.Gods.The.Two.Worlds.2017.HDRip.x264.AAC.720p-REM.mp4",
+    "3.How.To.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.x264-[YTS.AM].mp4": "C:\\Users\\andrew\\Videos\\movie\\How to Train your Dragon\\dfdfd\\sample\\3.How.To.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.x264-[YTS.AM].mp4",
+    "2.How.to.Train.Your.Dragon.2.2014.720p.BluRay.x264.YIFY.mp4": "C:\\Users\\andrew\\Videos\\movie\\How to Train your Dragon\\dfdfd\\sample\\test\\2.How.to.Train.Your.Dragon.2.2014.720p.BluRay.x264.YIFY.mp4",
+    "1.How.To.Train.Your.Dragon.2010.720.BrRip.x264.YIFY.mp4": "C:\\Users\\andrew\\Videos\\movie\\How to Train your Dragon\\dfdfd\\sample\\test\\test2\\1.How.To.Train.Your.Dragon.2010.720.BrRip.x264.YIFY.mp4",
+    "Kong.Skull.Island-2017.mp4": "C:\\Users\\andrew\\Videos\\movie\\Kong Skull Island (2017) [1080p] [YTS.AG]\\Kong.Skull.Island-2017.mp4",
+    "1.The Lion King.mp4": "C:\\Users\\andrew\\Videos\\movie\\Lion King\\test\\1.The Lion King.mp4",
+    "2. The Lion King 2.mp4": "C:\\Users\\andrew\\Videos\\movie\\Lion King\\test\\2. The Lion King 2.mp4",
+    "Lion King 3.MP4": "C:\\Users\\andrew\\Videos\\movie\\Lion King\\test\\Lion King 3.MP4",
+    "Lion King(Unanimated).mp4": "C:\\Users\\andrew\\Videos\\movie\\Lion King\\test\\Lion King(Unanimated).mp4",
+    "Maleficent.2014.1080p.BluRay.x264.YIFY.mp4": "C:\\Users\\andrew\\Videos\\movie\\Maleficent\\Maleficent.2014.1080p.BluRay.x264.YIFY.mp4",
+    "Maleficent.Mistress.of.Evil.2019 (2).mp4": "C:\\Users\\andrew\\Videos\\movie\\Maleficent\\Maleficent.Mistress.of.Evil.2019 (2).mp4",
+    "Midnight.Sun.2018.WEB-DL.x264-FGT.mp4": "C:\\Users\\andrew\\Videos\\movie\\Midnight.Sun.2018.WEB-DL.x264-FGT\\Midnight.Sun.2018.WEB-DL.x264-FGT.mp4",
+    "Passengers.2016.1080p.BluRay.x264-[YTS.AG].mp4": "C:\\Users\\andrew\\Videos\\movie\\Passengers (2016) [1080p] [YTS.AG]\\Passengers.2016.1080p.BluRay.x264-[YTS.AG].mp4",
+    "Ratatouille 2007.mp4": "C:\\Users\\andrew\\Videos\\movie\\Ratatouille\\Ratatouille 2007.mp4",
+    "Skyscraper.2018.720p.WEBRip.x264-[YTS.AM].mp4": "C:\\Users\\andrew\\Videos\\movie\\Skyscraper (2018) [WEBRip] [720p] [YTS.AM]\\Skyscraper.2018.720p.WEBRip.x264-[YTS.AM].mp4",
+    "The.Smurfs.2.2013.mp4": "C:\\Users\\andrew\\Videos\\movie\\Smurfs\\The.Smurfs.2.2013.mp4",
+    "The.Smurfs.2011.720p.BrRip.x264.YIFY.mp4": "C:\\Users\\andrew\\Videos\\movie\\Smurfs\\The.Smurfs.2011.720p.BrRip.x264.YIFY.mp4",
+    "Spongebob.mp4": "C:\\Users\\andrew\\Videos\\movie\\Spongebob\\Spongebob.mp4",
+    "The.Emoji.Movie-2017.mp4": "C:\\Users\\andrew\\Videos\\movie\\The Emoji Movie (2017) [1080p] [YTS.AG]\\The.Emoji.Movie-2017.mp4",
+    "The.Golden.Compass.2007.1080p.BluRay.x264.YIFY.mp4": "C:\\Users\\andrew\\Videos\\movie\\The.Golden.Compass.2007.1080p.BluRay.x264.YIFY.mp4 (movie)\\The.Golden.Compass.2007.1080p.BluRay.x264.YIFY.mp4",
+    "The.Legion.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4": "C:\\Users\\andrew\\Videos\\movie\\The_Legion_2020_720p_[WEBRi]_[YTS.MX]\\The.Legion.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
+    "Tomb.Raider.2018.720p.WEBRip.x264-[YTS.AM].mp4": "C:\\Users\\andrew\\Videos\\movie\\Tomb Raider (2018) [720p]\\Tomb.Raider.2018.720p.WEBRip.x264-[YTS.AM].mp4",
+    "Turbo.2013.720p.BluRay.x264.YIFY....mp4": "C:\\Users\\andrew\\Videos\\movie\\turbo\\Turbo.2013.720p.BluRay.x264.YIFY....mp4",
+    "Unfriended.Dark.Web.2018.BRRip.XviD.MP3-XVID.avi": "C:\\Users\\andrew\\Videos\\movie\\Unfriended.Dark.Web.2018.BRRip.XviD.MP3-XVID\\Unfriended.Dark.Web.2018.BRRip.XviD.MP3-XVID.avi",
+    "Up.2009.720p.BluRay.x264.YIFY....mp4": "C:\\Users\\andrew\\Videos\\movie\\up\\Up.2009.720p.BluRay.x264.YIFY....mp4",
+    "Upgrade.2018.720p.WEBRip.x264-[YTS.AM].mp4": "C:\\Users\\andrew\\Videos\\movie\\Upgrade (2018) [WEBRip] [720p] [YTS.AM]\\Upgrade.2018.720p.WEBRip.x264-[YTS.AM].mp4",
+    "Canada UN.mp4": "C:\\Users\\andrew\\Videos\\movie\\Videos\\Canada UN.mp4",
+    "gr8.mp4": "C:\\Users\\andrew\\Videos\\movie\\Videos\\gr8.mp4",
+    "Grade 8.mp4": "C:\\Users\\andrew\\Videos\\movie\\Videos\\Grade 8.mp4",
+    "Your.Name.2016.720p.BluRay.x264-[YTS.AM]....mp4": "C:\\Users\\andrew\\Videos\\movie\\your name\\Your.Name.2016.720p.BluRay.x264-[YTS.AM]....mp4",
+    "Your NameKimi no Na wa\u541b\u306e\u540d\u306f\u3002 Orchestra Concert Nandemonaiya\u306a\u3093\u3067\u3082\u306a\u3044\u3084 (Movie and Credit Versions).mp4": "C:\\Users\\andrew\\Videos\\movie\\YouTube Video\\Your NameKimi no Na wa\u541b\u306e\u540d\u306f\u3002 Orchestra Concert Nandemonaiya\u306a\u3093\u3067\u3082\u306a\u3044\u3084 (Movie and Credit Versions).mp4"
+  }
+}
